@@ -1,7 +1,7 @@
 # NYC Citibike Analysis
 ## Overview: 
 
-Explain the purpose of this analysis.
+To analysis bike sharing data, create visualizations of your analysis and  use that data to convince investors that a bike-sharing program in Des Moines is a solid business proposal.
 
 ### Deliverables
 
@@ -11,7 +11,7 @@ Explain the purpose of this analysis.
 
 ## Results: 
 
-Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
+Using the visualizations in my Tableau Story, describe the results of each visualization underneath the image.
 
 [link to dashboard](https://public.tableau.com/authoring/NYCCitibikeAnalysis_16543800909920/Dashboard1#1)
 
@@ -19,10 +19,38 @@ Using the visualizations you have in your Tableau Story, describe the results of
 
 ## Summary:
 
- Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+Based on the analysis of the bike sharing data from New York City in August of 2018, I would recommend investors support a business proposal to start up a program in Des Moines or another similar city.
+
+**These results are based off over 2 million records of usage in one month**
+
+![Number of Trips](images/sumOfTrips.PNG)
 
 
 
+**Services are being used 24 hours a day, 7 days a week.**
+
+​	![Trips by Weekday per Hour](images/trips_per_wd_per_hour.PNG)
 
 
-Module 14
+
+**This graph shows peak hours but you can also see the best hours for bike maintenance **
+**are 1am - 5am.**![Peak Hours](images/peak_hours.PNG)
+
+**This chart shows us that men may checkout bikes at a higher frequency but women ride the same amount of time.**
+
+![Checkout Times by Gender](images/checkoutTimesByGender.PNG)
+
+
+
+**This heatmap shows that Subscribers of the sharing program ride more frequently than the average Customer but support across both categories is consistently present .**
+
+![Trips by Gender by Weekday](images/TripsByGenderByWeekday.PNG)
+
+**There are just as many popular starting locations being utilized as there are ending.**
+
+![Starting Locations](images/startingLocations.PNG)
+
+![Ending Locations](images/endingLocations.PNG)
+
+
+
