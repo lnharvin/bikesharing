@@ -13,9 +13,9 @@ To analysis bike sharing data, create visualizations of your analysis and  use t
 
 Using the visualizations in my Tableau Story, describe the results of each visualization underneath the image.
 
-[link to dashboard](https://public.tableau.com/authoring/NYCCitibikeAnalysis_16543800909920/Dashboard1#1)
+[link to Tableau story](https://public.tableau.com/authoring/NYCCitibikeAnalysis_16543800909920/Story1#1)
 
-[link to story](https://public.tableau.com/authoring/NYCCitibikeAnalysis_16543800909920/Story1#1)
+[link to Tableau dashboard](https://public.tableau.com/authoring/NYCCitibikeAnalysis_16543800909920/Dashboard1#1)
 
 ## Summary:
 
